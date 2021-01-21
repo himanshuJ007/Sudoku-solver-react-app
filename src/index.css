@@ -18,6 +18,7 @@ input[type=text] {
   /* border: 3px solid #555; */
   background-color: rgb(88, 243, 74);
   border: 2px solid red;
+  height: 30px;
   width: 4%;
   border-radius: 6px;
 }
